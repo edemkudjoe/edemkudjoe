@@ -52,14 +52,6 @@ CS/IT student in Accra, Ghana, building full-stack web apps and writing sports f
 <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/edemkudjoe&label=Public%20Repos&query=public_repos&style=for-the-badge&color=green" alt="Public Repos"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edemkudjoe&layout=compact&theme=dracula" alt="Top languages" height="165"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=edemkudjoe&theme=dracula" alt="GitHub streak"/>
-</p>
-
 ---
 
 ### ⚽ Off the Keyboard
