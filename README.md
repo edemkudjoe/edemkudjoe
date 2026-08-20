@@ -47,7 +47,7 @@ A CS/IT Major @ the University of Professional Studies in Accra, Ghana solving s
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=edemkudjoe&theme=dracula" height="150" alt="languages graph" />
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edemkudjoe&theme=dracula" height="150" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com/?user=edemkudjoe&theme=dracula" height="150" alt="streak graph" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=edemkudjoe&theme=dracula&bg_color=282a36&hide_border=true" height="150" alt="activity graph" />
 </div>
 
