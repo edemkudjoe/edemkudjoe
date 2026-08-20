@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Deladem 👋</h1>
 
 <p align="center">
-A CS/IT Major at the University of Professional Studies in Accra, Ghana, building full-stack web apps and writing everything from sports fiction to articles on the side.
+A CS/IT Major @ the University of Professional Studies in Accra, Ghana solving simple, everyday problems by building full-stack web apps and systems. Open to new challenges and collaborations.
 </p>
 
 
@@ -42,14 +42,14 @@ A CS/IT Major at the University of Professional Studies in Accra, Ghana, buildin
 
 ### 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=edemkudjoe&show_icons=true&theme=dracula" alt="Deladem's GitHub stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edemkudjoe&layout=compact&theme=dracula" alt="Top languages" height="165"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=edemkudjoe&theme=dracula" alt="GitHub streak"/>
-</p>
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=edemkudjoe&theme=dracula" height="150" alt="stats graph" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=edemkudjoe&theme=dracula" height="150" alt="languages graph" />
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edemkudjoe&theme=dracula" height="150" alt="streak graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=edemkudjoe&theme=dracula&bg_color=282a36&hide_border=true" height="150" alt="activity graph" />
+</div>
 
 ---
 
