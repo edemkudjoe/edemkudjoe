@@ -13,7 +13,7 @@ CS/IT student in Accra, Ghana, building full-stack web apps and writing sports f
 
 ### 🧠 Tech Stack
 
-<p>
+<p align="right">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -66,6 +66,8 @@ When I'm not shipping code, I'm writing Ghanaian football fiction, following the
 ---
 
 ### 📬 Connect with Me
+
+📧 avuddelkod@gmail.com &nbsp;|&nbsp; 📱 +233 20 438 9714
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edemkudjoe)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Edem_Kudjoe)
