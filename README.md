@@ -26,14 +26,12 @@ CS/IT student in Accra, Ghana, building full-stack web apps and writing sports f
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" title="Vercel" alt="Vercel" width="40" height="40"/>
 </p>
 
-| Category | Stack |
-|---|---|
-| **Languages** | Python, C++, JavaScript, TypeScript |
-| **Frontend** | HTML5, CSS3, JavaScript, Next.js |
-| **Backend** | Node.js, Express, Vercel Serverless Functions |
-| **Database** | Supabase (PostgreSQL), custom JWT auth |
-| **AI/Tools** | Google Gemini API |
-| **Workflow** | GitHub, browser-based dev (no local IDE) |
+- **Languages:** Python, C++, JavaScript, TypeScript
+- **Frontend:** HTML5, CSS3, JavaScript, Next.js
+- **Backend:** Node.js, Express, Vercel Serverless Functions
+- **Database:** Supabase (PostgreSQL), custom JWT auth
+- **AI/Tools:** Google Gemini API
+- **Workflow:** GitHub, browser-based dev (no local IDE)
 
 ---
 
