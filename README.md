@@ -47,7 +47,12 @@ CS/IT student in Accra, Ghana, building full-stack web apps and writing sports f
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=edemkudjoe&show_icons=true&theme=dracula" alt="Deladem's GitHub stats" height="165"/>
+<img src="https://img.shields.io/github/followers/edemkudjoe?label=Followers&style=for-the-badge&color=blue" alt="Followers"/>&nbsp;
+<img src="https://img.shields.io/github/stars/edemkudjoe?label=Stars&style=for-the-badge&color=yellow" alt="Stars"/>&nbsp;
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/edemkudjoe&label=Public%20Repos&query=public_repos&style=for-the-badge&color=green" alt="Public Repos"/>
+</p>
+
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edemkudjoe&layout=compact&theme=dracula" alt="Top languages" height="165"/>
 </p>
 
